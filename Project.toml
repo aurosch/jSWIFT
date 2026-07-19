@@ -2,3 +2,12 @@ name = "Jswift"
 uuid = "10c738af-4c38-4568-9a48-17513d56bc25"
 version = "0.1.0"
 authors = ["scharfenberg1 <scharfenberg1@uni-potsdam.de>"]
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
+Documenter = "1.17.0"
+DocumenterTools = "0.1.21"
+

@@ -1,0 +1,7 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Jswift = "10c738af-4c38-4568-9a48-17513d56bc25"
+
+[compat]
+Documenter = "1.17.0"
+DocumenterTools = "0.1.21"
