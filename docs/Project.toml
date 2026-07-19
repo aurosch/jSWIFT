@@ -2,6 +2,8 @@
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
 Jswift = "10c738af-4c38-4568-9a48-17513d56bc25"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 
 [compat]
 Documenter = "1.17.0"
